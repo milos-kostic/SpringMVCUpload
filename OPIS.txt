@@ -1,0 +1,12 @@
+
+izvor:
+https://www.youtube.com/watch?v=le0nJWMGC3E
+
+   > 13 min
+   
+
+start:
+	http://localhost:8080/SpringMVCFileUpload
+
+- ne pokrece se, 404
+
